@@ -1,3 +1,14 @@
+# article 
+* Post 
+* Comment 
+* Like
+# User 
+* user Login, Logout, Signin
+# rails spec
+* model test case 
+* controller test case
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
